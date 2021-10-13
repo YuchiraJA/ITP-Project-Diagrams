@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T15:32:27.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="7oOXpAEzUECmGI0bsHln" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T16:49:46.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="TzsAy9Kiw8yRWHRlPs7A" version="15.5.2" type="github">
   <diagram id="FonD3yZjuFLouaIDfz1e" name="Page-1">
-    <mxGraphModel dx="2370" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="gRZQhWHQVdt-xKspjkCG-16" value="Profile Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="125" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gRZQhWHQVdt-xKspjkCG-17" value="Library Handler" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gRZQhWHQVdt-xKspjkCG-17" value="Librarian Handler" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="175" y="156" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gRZQhWHQVdt-xKspjkCG-18" value="" style="endArrow=none;html=1;" edge="1" parent="1">
